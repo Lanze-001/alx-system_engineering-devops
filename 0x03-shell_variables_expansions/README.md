@@ -7,3 +7,4 @@ Task 5: A script that lists all local variables and environment variables, and f
 Task 6: A script that creates a new local variable.
 Task 7: A script that creates a new global variable.
 Task 8: A script that prints the result of the addition of 128 with the value stored in the environment variable.
+Task 9: A script that prints the result of two environment variables divided followed by a new line.
